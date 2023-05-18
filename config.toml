@@ -1,0 +1,5 @@
+[logs]
+level = "info"
+
+[server]
+http_port = 8080
